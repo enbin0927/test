@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>스킨체크표 만들기~</title>
+ </head>
+ <body>
+  <h1>스킨체크표</h1>
+	<style>
+	h1{text-align:center;}
+	</style>
+  <hr>
+	<img src="ftp(00):/신규스킨/무제205_20240107104016.png"alt="error">
+ </body>
+</html>
